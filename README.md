@@ -12,6 +12,3 @@ I enjoy listening music🎵 and playing guitar 🎸<br>
 
 📚 I’m currently studying ...<br>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-
-📁 These are my projects!!<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2022SiliconValley-Team-ForV&repo=TTS)](https://github.com/2022SiliconValley-Team-ForV/TTS) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GreenAppleBean&repo=SiDoli)](https://github.com/GreenAppleBean/SiDoli)
