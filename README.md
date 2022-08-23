@@ -21,5 +21,5 @@ I enjoy listening music🎵 and playing guitar 🎸<br>
 
 🔍 You can see more detail about project in my blog. Just click the image!! <br>
 <a href="https://hi-june.github.io/categories/Team_ForV" target="_blank">
-	<img src="https://user-images.githubusercontent.com/98803599/186072252-adb16fa6-8f4b-464a-8666-5758a3ab552f.jpg" height="20%" width="20%">
+	<img src="https://user-images.githubusercontent.com/98803599/186072252-adb16fa6-8f4b-464a-8666-5758a3ab552f.jpg" height="30%" width="30%">
 <a>
