@@ -18,3 +18,5 @@ I enjoy listening music🎵 and playing guitar 🎸<br>
 
 📚 I’m currently studying ...<br>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+
+![image](https://user-images.githubusercontent.com/98803599/186072252-adb16fa6-8f4b-464a-8666-5758a3ab552f.jpg){: width="40%" height="40%"}
