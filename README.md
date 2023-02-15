@@ -1,12 +1,12 @@
 ### Hi there 👋 <br>
 
-I'm 🌱 Junior Backend Developer! <br>
+I'm 🌱 studying hard to become a Backend Developer! <br>
 
 I enjoy listening to music🎵 and playing guitar 🎸<br>
 
 
 📚 Languages <br>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">  
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 
