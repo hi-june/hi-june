@@ -17,6 +17,7 @@ I enjoy listening to music🎵 and playing guitar 🎸<br>
 
 📁 DataBase <br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 
 
 📌 DevOps <br>
