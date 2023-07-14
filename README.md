@@ -26,6 +26,5 @@ I enjoy listening to music🎵 and playing guitar 🎸<br>
 
 
 📋 Etc <br>
-<img src="https://img.shields.io/badge/apache kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
 <img src="https://img.shields.io/badge/rabbitmq-FF6F00?style=for-the-badge&logo=rabbitmq&logoColor=white"> 
 <img src="https://img.shields.io/badge/celery-37814A?style=for-the-badge&logo=celery&logoColor=white"> 
