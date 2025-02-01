@@ -1,6 +1,6 @@
 ### Hi there 👋 <br>
 
-I'm 🌱 studying hard to become a Backend Developer! <br>
+I'm 🌱 Junior Backend Developer! <br>
 I enjoy listening to music🎵 and playing guitar 🎸<br><br>
 
 
@@ -25,5 +25,6 @@ I enjoy listening to music🎵 and playing guitar 🎸<br><br>
 <img src="https://img.shields.io/badge/Amazon Web Service-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
 
 
-✅ Certification
-
+✅ Certification <br>
+[<img width="110px" height="110px" src="https://github.com/user-attachments/assets/f04009ba-665e-4a7a-bde6-b7823cc7aa2d">]([https://www.naver.com](https://www.credly.com/badges/f678b405-7276-4a14-af74-3ac85428cc74/public_url))
+<img width="120px" height="120px" src="https://github.com/user-attachments/assets/d1ed53e2-a8fe-426f-9382-46eaff53cf3e">
