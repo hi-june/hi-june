@@ -26,5 +26,5 @@ I enjoy listening to music🎵 and playing guitar 🎸<br><br>
 
 
 ✅ Certification <br>
-[<img width="110px" height="110px" src="https://github.com/user-attachments/assets/f04009ba-665e-4a7a-bde6-b7823cc7aa2d">]([https://www.naver.com](https://www.credly.com/badges/f678b405-7276-4a14-af74-3ac85428cc74/public_url))
-<img width="120px" height="120px" src="https://github.com/user-attachments/assets/d1ed53e2-a8fe-426f-9382-46eaff53cf3e">
+[![SAA: Solution Architect Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/f678b405-7276-4a14-af74-3ac85428cc74/public_url "SAA: Solution Architect Associate")
+[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/120x120/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://images.credly.com/size/120x120/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png "CKA: Certified Kubernetes Administrator")
