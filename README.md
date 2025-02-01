@@ -27,7 +27,7 @@ I enjoy listening to music🎵 and playing guitar 🎸<br><br>
 ✅ Certification <br>
 [![SAA: Solution Architect Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/f678b405-7276-4a14-af74-3ac85428cc74/public_url "SAA: Solution Architect Associate")
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/120x120/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/org/the-linux-foundation/badge/cka-certified-kubernetes-administrator "CKA: Certified Kubernetes Administrator")
-
+<br><br>
 
 ### 🏢 Work Experience <br>
 **EMRO** - Cloud Team (2024.09 - Present)
